@@ -73,26 +73,29 @@
       <div class="row no-gutters">
         <div class="col-lg-4 col-md-6">
           <div class="icon-box">
-            <div class="icon"><i class="icofont-computer"></i></div>
-            <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-            <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint
-              occaecati cupiditate non provident</p>
+            <div class="icon"><i class="icofont-eye-alt"></i></div>
+            <h4 class="title"><a href="">Vision</a></h4>
+            <p class="description">To be a world class saving and credit cooprative society in 2030</p>
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
           <div class="icon-box">
-            <div class="icon"><i class="icofont-image"></i></div>
-            <h4 class="title"><a href="">Dolor Sitema</a></h4>
-            <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-              commodo consequat tarad limino ata</p>
+            <div class="icon"><i class="icofont-dart"></i></div>
+            <h4 class="title"><a href="">Mission</a></h4>
+            <p class="description">Improve socio-economic conditions of members & other people through mobilizing saving
+              and creating access of credit & asset building using relevant technology and highly motivated staffs in
+              consideration of social governance aspects.</p>
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
           <div class="icon-box">
             <div class="icon"><i class="icofont-tasks-alt"></i></div>
-            <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-            <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-              fugiat nulla pariatur trade stravi</p>
+            <h4 class="title"><a href="">Objectives</a></h4>
+            <p class="description">Build saving culture and facilitate credit with fair interest rate for members
+              <br>
+              Improve socio-economic conditions of members & other people by equipping with entrepreneurship & business
+              development skills through trainings
+            </p>
           </div>
         </div>
       </div>
@@ -106,23 +109,32 @@
 
       <div class="section-title">
         <h2>About Us</h2>
-        <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint
-          consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit
-          in iste officiis commodi quidem hic quas.</p>
       </div>
 
       <div class="row">
-        <div class="col-lg-6 order-1 order-lg-2">
-          <img src="assets/img/about.jpg" class="img-fluid" alt="">
+        <div class="col-lg-6 order-1 order-lg-2 mt-5">
+          <img src="./assets/img/Founders.jpg" class="img-fluid" alt="">
         </div>
         <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
-          <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
-          <p class="font-italic">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-            dolore
-            magna aliqua.
+          <h3>Awach SACCOS Ltd.</h3>
+          <p class="text-justify">
+            Is a saving and credit cooperative which was established on 13/07/1999 E.C. in Arada Sub
+            city by Mr. Zerihun Sheleme, founder and manager with initial member’s having in mind a long range objective
+            of encouraging saving mobilization culture and loan provision in the community with a strong commitment and
+            belongingness, coupled with shared visions of the founders; Awach became a truly serving financial
+            institution with in a few years after the establishment.
+            <br>
+            The legal personality certificate was first gained from Arada sub-city in March 13/1999 E.C. and due to its
+            expansion it was re-registered by the Federal Cooperative Agency (FCA) in 2009 with a registration
+            No.AG/S/C/005/09.
+            <br>
+            Awach has been certified as competent SACCOS, based on regulation No.018/2007, by scoring 81.65 point in
+            competency evaluation.
+            <br>
+            Awach is the first SACCO in Ethiopia to be a member of the International Cooperative Alliance (ICA) and an
+            associate member of African Cooperative Confederation of Saving and Credit Associations (ACCOSCA).
           </p>
-          <ul>
+          <!-- <ul>
             <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
             <li><i class="icofont-check-circled"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
             <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
@@ -134,7 +146,7 @@
             voluptate
             velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
             culpa qui officia deserunt mollit anim id est laborum
-          </p>
+          </p> -->
         </div>
       </div>
 
@@ -146,28 +158,27 @@
     <div class="container" data-aos="fade-up">
       <div class="section-title">
         <h2>Facts</h2>
-        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
       </div>
       <div class="row counters">
 
         <div class="col-lg-3 col-6 text-center">
-          <span data-toggle="counter-up">232</span>
-          <p>Clients</p>
+          <span>37,000</span>
+          <p>Active Members</p>
         </div>
 
         <div class="col-lg-3 col-6 text-center">
-          <span data-toggle="counter-up">521</span>
-          <p>Projects</p>
+          <span>800 M</span>
+          <p>Loan Dispursed</p>
         </div>
 
         <div class="col-lg-3 col-6 text-center">
-          <span data-toggle="counter-up">1,463</span>
-          <p>Hours Of Support</p>
+          <span>700 M</span>
+          <p>Members Saving</p>
         </div>
 
         <div class="col-lg-3 col-6 text-center">
-          <span data-toggle="counter-up">15</span>
-          <p>Hard Workers</p>
+          <span>1 Bilion</span>
+          <p>Total Asset</p>
         </div>
 
       </div>
@@ -185,23 +196,21 @@
 
       <div class="row">
         <div class="col-lg-6 order-1 order-lg-2">
-          <img src="assets/img/about.jpg" class="img-fluid" alt="">
+          <img src="./assets/img/news/photo_2020-10-27_11-51-13.jpg" class="img-fluid" alt="">
         </div>
         <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
-          <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+          <h3>Awach SACCOS celebrated the International Saving and Credit Cooperatives day</h3>
           <p class="font-italic">
-            Oct. 30 2020
+            Oct. 17 2020
           </p>
 
-          <p>
-            Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-            voluptate
-            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum
-            Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-            voluptate
-            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum
+          <p class="text-justify">
+            Awach SACCOS celebrated the International Saving and Credit day on October 17, 2020 with members,
+            cooperative experts, higher government officials, and invited primary cooperative and union that came from
+            Tigray regional state and Oromiya regional state respectively. The Founder and general Manager of Awach
+            SACCOS welcomed the participants and said that Awach SACCOS celebrated this International SACCOS day for the
+            third time. Also, W/ro Yetnayet Teklewold,
+            the International Cooperative
           </p>
           <a href="#about" class="btn-get-started">Read More</a>
         </div>
@@ -220,7 +229,7 @@
                       <div class="col-md-4 mb-3">
                         <div class="card">
                           <img class="img-fluid" alt="100%x280"
-                            src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                            src="./assets/img/news/photo_2020-10-27_11-51-13.jpg">
                           <div class="card-body">
                             <h4 class="card-title">Special title treatment</h4>
                             <p class="card-text">With supporting text below as a natural lead-in to additional
@@ -372,10 +381,7 @@
     <div class="container">
 
       <div class="section-title">
-        <h2>Our Clients</h2>
-        <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint
-          consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit
-          in iste officiis commodi quidem hic quas.</p>
+        <h2>Our Partners</h2>
       </div>
 
       <div class="row">
@@ -612,9 +618,9 @@
     </div>
   </section><!-- End F.A.Q Section -->
 
-<!-- ======= Contact Section ======= -->
-<?php include './templets/contact.html'; ?>
-<!-- End Contact Section -->
+  <!-- ======= Contact Section ======= -->
+  <?php include './templets/contact.html'; ?>
+  <!-- End Contact Section -->
 
 </main><!-- End #main -->
 
