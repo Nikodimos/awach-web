@@ -740,7 +740,7 @@ section {
 }
 
 #facts .counters span {
-  font-size: 48px;
+  font-size: 30px;
   display: block;
   color: #ec662f;
 }
@@ -750,6 +750,10 @@ section {
   margin: 0 0 20px 0;
   font-family: "Poppins", sans-serif;
   font-size: 14px;
+}
+#facts .counters i{
+  color: #ec662f;
+  font-size: 48px;
 }
 
 /*--------------------------------------------------------------
@@ -786,7 +790,11 @@ section {
 .latestnews .btn-get-started:hover {
   background: #f57c00;
 }
-
+.card img {
+  width: 100%;
+  height: 280px;
+  object-fit: cover;
+}
 /*--------------------------------------------------------------
 # Our Clients
 --------------------------------------------------------------*/
